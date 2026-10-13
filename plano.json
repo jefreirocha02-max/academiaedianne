@@ -1,0 +1,261 @@
+{
+ "version": 1,
+ "notes": [
+  "<b>Bi-set leve:</b> dois exercícios seguidos, de grupos diferentes, com descanso de 90-120s ao final do par. Cargas moderadas, sempre com 2-3 repetições de reserva (sem ir à falha).",
+  "<b>Sem rest-pause nem Myo-reps</b> neste ciclo, para poupar articulações e limitar a fadiga relacionada à Síndrome de Sjögren.",
+  "<b>Duração estimada:</b> 35-45 min. Se estiver com fadiga ou dor articular, faça só 1 série por exercício ou pule o bloco do dia.",
+  "<b>Frequência:</b> 3x/semana é o teto; reduza para 2x se sentir fadiga acima do normal. Hidrate-se bem e converse com o reumatologista/fisioterapeuta sobre o plano."
+ ],
+ "tabs": [
+  {
+   "id": "A",
+   "label": "Treino A",
+   "subtitle": "Full Body — Segunda",
+   "blocks": [
+    {
+     "kind": "biset",
+     "title": "Bi-set 1 — Pernas + Costas",
+     "rest": "90-120s após o par",
+     "note": "Faça o 1 e logo em seguida o 2. Descanse ao final do par. Mantenha 2-3 repetições em reserva e, se estiver cansada, faça as séries separadas.",
+     "exercises": [
+      {
+       "name": "Leg press 45°",
+       "target": "2x12-15",
+       "load": ""
+      },
+      {
+       "name": "Puxada frente pegada aberta",
+       "target": "2x12-15",
+       "load": ""
+      }
+     ]
+    },
+    {
+     "kind": "biset",
+     "title": "Bi-set 2 — Peito + Costas",
+     "rest": "90-120s após o par",
+     "note": "Faça o 1 e logo em seguida o 2. Descanse ao final do par. Mantenha 2-3 repetições em reserva e, se estiver cansada, faça as séries separadas.",
+     "exercises": [
+      {
+       "name": "Supino inclinado máquina",
+       "target": "2x12-15",
+       "load": ""
+      },
+      {
+       "name": "Remada baixa pegada neutra",
+       "target": "2x12-15",
+       "load": ""
+      }
+     ]
+    },
+    {
+     "kind": "biset",
+     "title": "Bi-set 3 — Posterior + Ombro",
+     "rest": "90s após o par",
+     "note": "Faça o 1 e logo em seguida o 2. Descanse ao final do par. Mantenha 2-3 repetições em reserva e, se estiver cansada, faça as séries separadas.",
+     "exercises": [
+      {
+       "name": "Mesa flexora",
+       "target": "2x12-15",
+       "load": ""
+      },
+      {
+       "name": "Elevação lateral polia baixa",
+       "target": "2x12-15",
+       "load": ""
+      }
+     ]
+    },
+    {
+     "kind": "biset",
+     "title": "Bi-set 4 — Braços",
+     "rest": "90s após o par",
+     "note": "Faça o 1 e logo em seguida o 2. Descanse ao final do par. Mantenha 2-3 repetições em reserva e, se estiver cansada, faça as séries separadas.",
+     "exercises": [
+      {
+       "name": "Rosca direta polia baixa",
+       "target": "2x12-15",
+       "load": ""
+      },
+      {
+       "name": "Tríceps corda no pulley",
+       "target": "2x12-15",
+       "load": ""
+      }
+     ]
+    },
+    {
+     "kind": "single",
+     "title": "Finalizador — Core",
+     "rest": "60s entre séries",
+     "note": "",
+     "exercises": [
+      {
+       "name": "Prancha isométrica",
+       "target": "2x20-30s",
+       "load": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "label": "Treino B",
+   "subtitle": "Full Body — Quarta",
+   "blocks": [
+    {
+     "kind": "biset",
+     "title": "Bi-set 1 — Quadríceps + Ombro",
+     "rest": "90-120s após o par",
+     "note": "Faça o 1 e logo em seguida o 2. Descanse ao final do par. Mantenha 2-3 repetições em reserva e, se estiver cansada, faça as séries separadas. Extensora com carga moderada.",
+     "exercises": [
+      {
+       "name": "Cadeira extensora",
+       "target": "2x12-15",
+       "load": ""
+      },
+      {
+       "name": "Desenvolvimento máquina",
+       "target": "2x12-15",
+       "load": ""
+      }
+     ]
+    },
+    {
+     "kind": "biset",
+     "title": "Bi-set 2 — Peito + Costas",
+     "rest": "90-120s após o par",
+     "note": "Faça o 1 e logo em seguida o 2. Descanse ao final do par. Mantenha 2-3 repetições em reserva e, se estiver cansada, faça as séries separadas.",
+     "exercises": [
+      {
+       "name": "Peck deck 45°",
+       "target": "2x12-15",
+       "load": ""
+      },
+      {
+       "name": "Puxada pegada supinada/triângulo",
+       "target": "2x12-15",
+       "load": ""
+      }
+     ]
+    },
+    {
+     "kind": "biset",
+     "title": "Bi-set 3 — Glúteos + Bíceps",
+     "rest": "90s após o par",
+     "note": "Faça o 1 e logo em seguida o 2. Descanse ao final do par. Mantenha 2-3 repetições em reserva e, se estiver cansada, faça as séries separadas.",
+     "exercises": [
+      {
+       "name": "Cadeira adutora/abdutora",
+       "target": "2x12-15",
+       "load": ""
+      },
+      {
+       "name": "Rosca scott máquina",
+       "target": "2x12-15",
+       "load": ""
+      }
+     ]
+    },
+    {
+     "kind": "biset",
+     "title": "Bi-set 4 — Tríceps + Panturrilha",
+     "rest": "90s após o par",
+     "note": "Faça o 1 e logo em seguida o 2. Descanse ao final do par. Mantenha 2-3 repetições em reserva e, se estiver cansada, faça as séries separadas.",
+     "exercises": [
+      {
+       "name": "Tríceps francês unilateral polia",
+       "target": "2x12-15",
+       "load": ""
+      },
+      {
+       "name": "Panturrilha sentada",
+       "target": "2x12-15",
+       "load": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "label": "Treino C",
+   "subtitle": "Full Body — Sexta",
+   "blocks": [
+    {
+     "kind": "biset",
+     "title": "Bi-set 1 — Posterior + Peito",
+     "rest": "90-120s após o par",
+     "note": "Faça o 1 e logo em seguida o 2. Descanse ao final do par. Mantenha 2-3 repetições em reserva e, se estiver cansada, faça as séries separadas.",
+     "exercises": [
+      {
+       "name": "Cadeira flexora",
+       "target": "2x12-15",
+       "load": ""
+      },
+      {
+       "name": "Crossover polia alta",
+       "target": "2x12-15",
+       "load": ""
+      }
+     ]
+    },
+    {
+     "kind": "biset",
+     "title": "Bi-set 2 — Pernas + Costas",
+     "rest": "90-120s após o par",
+     "note": "Faça o 1 e logo em seguida o 2. Descanse ao final do par. Mantenha 2-3 repetições em reserva e, se estiver cansada, faça as séries separadas.",
+     "exercises": [
+      {
+       "name": "Leg press 45°",
+       "target": "2x12-15",
+       "load": ""
+      },
+      {
+       "name": "Puxada unilateral polia alta",
+       "target": "2x12-15",
+       "load": ""
+      }
+     ]
+    },
+    {
+     "kind": "biset",
+     "title": "Bi-set 3 — Braços",
+     "rest": "90s após o par",
+     "note": "Faça o 1 e logo em seguida o 2. Descanse ao final do par. Mantenha 2-3 repetições em reserva e, se estiver cansada, faça as séries separadas.",
+     "exercises": [
+      {
+       "name": "Rosca unilateral cross polia alta",
+       "target": "2x12-15",
+       "load": ""
+      },
+      {
+       "name": "Extensão acima da cabeça na polia",
+       "target": "2x12-15",
+       "load": ""
+      }
+     ]
+    },
+    {
+     "kind": "biset",
+     "title": "Bi-set 4 — Ombro + Core",
+     "rest": "90s após o par",
+     "note": "Faça o 1 e logo em seguida o 2. Descanse ao final do par. Mantenha 2-3 repetições em reserva e, se estiver cansada, faça as séries separadas.",
+     "exercises": [
+      {
+       "name": "Elevação lateral polia baixa",
+       "target": "2x12-15",
+       "load": ""
+      },
+      {
+       "name": "Abdominal na polia",
+       "target": "2x12-15",
+       "load": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
